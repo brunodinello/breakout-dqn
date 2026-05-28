@@ -96,6 +96,8 @@ assets/      # README GIFs
 ## Author
 
 **Bruno Dinello** — [GitHub](https://github.com/brunodinello) · [LinkedIn](https://www.linkedin.com/in/bruno-dinello)
+**Carlos Dutra Da Silveira**
+**Loernzo Foderé**
 
 ## License
 
