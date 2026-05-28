@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.Python
+build/
+dist/
+.pytest_cache/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Tooling
+.venv/
+venv/
+.env
+
+# Experiment tracking
+wandb/
+
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+.vscode/
+
+# Generated training artifacts (keep only final checkpoints under checkpoints/)
+Backups/
+*_ep*.dat
